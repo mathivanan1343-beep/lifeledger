@@ -1,24 +1,24 @@
 {
   "app": "LifeLedger",
   "package": "com.mathivananvs.finflow",
-  "version": "1.5.0",
-  "versionCode": 23,
-  "releasedAt": "2026-11-20T14:08:53.052Z",
-  "notesUrl": "https://github.com/mathivanan1343-beep/lifeledger/releases/tag/v1.5.0",
+  "version": "1.6.0",
+  "versionCode": 24,
+  "releasedAt": "2026-11-21T15:11:35.614Z",
+  "notesUrl": "https://github.com/mathivanan1343-beep/lifeledger/releases/tag/v1.6.0",
   "apks": [
     {
       "file": "Lifeledger_Live.apk",
-      "url": "https://github.com/mathivanan1343-beep/lifeledger/releases/download/v1.5.0/Lifeledger_Live.apk",
-      "bytes": 72057714,
-      "sha256": "c450867064c896e1a43ce569da433cbb9c6d1c5fa165e3a32ffe44b2495e343a",
-      "md5": "220a667f6b3971c442c3ee820c081ac3"
+      "url": "https://github.com/mathivanan1343-beep/lifeledger/releases/download/v1.6.0/Lifeledger_Live.apk",
+      "bytes": 72061810,
+      "sha256": "a8decbba8ee0d32da3a1c546342550931f9a8998b62bb346a95581a39d87f195",
+      "md5": "485867d3dbde271d0fbd60d0c2a2b471"
     },
     {
       "file": "Lifeledger_Live_arm64.apk",
-      "url": "https://github.com/mathivanan1343-beep/lifeledger/releases/download/v1.5.0/Lifeledger_Live_arm64.apk",
-      "bytes": 31172355,
-      "sha256": "9046b20c9c9e5dde4439043c7d8cfd0558a78c5ced847a350f1dd55c8def4b1d",
-      "md5": "58fa12c78b2331c80341d9b7d5039820"
+      "url": "https://github.com/mathivanan1343-beep/lifeledger/releases/download/v1.6.0/Lifeledger_Live_arm64.apk",
+      "bytes": 31176451,
+      "sha256": "a42f176b340986678e061dfabb0d85973885edb4c66858db4836a965a2680266",
+      "md5": "ce7b31edf652fd0f9d935424402e3649"
     }
   ]
 }
